@@ -1,4 +1,5 @@
 import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         double[] array = {12.3, -45.7, -56.8, -90.1, -34.6, 23.5, -87.7, 12.3, -67.9, 45.7, -98.8, -56.8, -10.1, 10.0, -1.2};
